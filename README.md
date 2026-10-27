@@ -2,6 +2,8 @@
 
 Ruihua Zhou, Hao Huang, Yijie Zheng, Jiatang Luo, Yunpeng Li, Yuling Liu, and Dan Du.
 
+[Paper](https://aclanthology.org/2026.emnlp-main.509/)
+
 Requires **Python 3.10+**. Includes synthetic corpora, retrieval, two text-similarity
 defenses, and experiment scripts. 
 
